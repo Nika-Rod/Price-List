@@ -10,6 +10,7 @@ Note:
 However, the program is still in development because it has some problems.
 At the end of the program, it deletes the hash, thus deleting the saved information
 
+###########################################################################################################################################################
 
 Lista de preços
 
